@@ -1,0 +1,2 @@
+Pub main
+return
